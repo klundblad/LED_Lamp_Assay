@@ -7,8 +7,8 @@ assumes a potentiometer will be outside of the field box to control externally w
 to limit the amount of tampering within the field box
 
 ## LED Output
-Assuming the Pot is not limiting the input (VCC of the LM555 is receiving 9 V)
-I_(LED) = 19.284 mA (Green LEDs rated 20 mA)
-V_d(LED) = 1.848 V
+Assuming the Pot is not limiting the input (VCC of the LM555 is receiving 9 V) <br />
+I_(LED) = 19.284 mA (Green LEDs rated 20 mA) <br />
+V_d(LED) = 1.848 V <br />
 
 <img width="303" alt="PWMsimulated" src="https://user-images.githubusercontent.com/12982852/138574624-185e08ea-ca50-444c-ba2d-42dae5105879.PNG">
